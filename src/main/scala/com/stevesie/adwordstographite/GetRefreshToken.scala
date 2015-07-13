@@ -9,7 +9,6 @@ import com.google.api.client.http.javanet.NetHttpTransport
 import com.google.api.client.json.jackson2.JacksonFactory
 import com.google.common.collect.Lists
 
-//sample ads.properties file: https://github.com/googleads/googleads-java-lib/blob/master/examples/adwords_axis/src/main/resources/ads.properties
 //instructions: https://github.com/googleads/googleads-java-lib/wiki/Using-OAuth2.0
 //https://github.com/googleads/googleads-java-lib/blob/master/examples/adwords_axis/src/main/java/adwords/axis/auth/GetRefreshToken.java
 object GetRefreshToken {
