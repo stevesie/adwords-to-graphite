@@ -11,3 +11,4 @@ libraryDependencies += "org.scalatest" %% "scalatest" % "2.2.4" % "test"
 //libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.3.11"
 
 libraryDependencies += "com.google.api-ads" % "ads-lib" % "2.2.0"
+libraryDependencies += "com.google.api-ads" % "adwords-axis" % "2.2.0"
