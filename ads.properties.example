@@ -1,3 +1,6 @@
+# Taken from https://github.com/googleads/googleads-java-lib/blob/master/examples/adwords_axis/src/main/resources/ads.properties
+# Rename to ads.properties in your application
+
 # Credentials to use for accessing the AdWords API
 
 # OfflineCredentials authentication properties.
